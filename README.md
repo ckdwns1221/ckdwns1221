@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there 👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44" />
 <!-- introduction section -->
 <h3 align=center font-size=20px>🙌Introduction🙌</h3>
 <p align=center>
@@ -37,7 +37,8 @@
 </div>
 <br/>
 
-<!-- footer section -->
+<!-- Widget section -->
+<h3 align=center>Widget</h3>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckdwns1221&layout=compact">
 </div>
@@ -45,3 +46,12 @@
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=ckdwns1221&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,a49cec,d6a4a4">
 </div>
+<br />
+
+<!-- 3D-Grass section -->
+<h3 align=center>3D-Grass</h3>
+<div align=center>
+	
+</div>
+
+
