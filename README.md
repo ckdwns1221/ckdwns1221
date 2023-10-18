@@ -48,6 +48,7 @@
 <br />
 
 <!-- 3D-Grass section -->
+<!--
 <h3 align=center>🌱3D-Grass🌱</h3>
 ![3D-Grass](./profile-3d-contrib/profile-night-rainbow.svg)
-
+-->
