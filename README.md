@@ -51,7 +51,7 @@
 <!-- 3D-Grass section -->
 <h3 align=center>3D-Grass</h3>
 <div align=center>
-	
+	![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
 
 
