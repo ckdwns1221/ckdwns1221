@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
 
-
+<div align=center>
+  
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckdwns1221&layout=compact)](https://github.com/ckdwns1221/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckdwns1221&show_icons=true&theme=tokyonight)    
