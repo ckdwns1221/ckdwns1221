@@ -3,6 +3,9 @@
 <h3 align=center font-size=20px>🙌Introduction</h3>
 <p align=center>성결대학교 컴퓨터공학과 19학번 고창준입니다!😁</p>
 
+<br/>
+<br/>
+
 <div align=center>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -12,8 +15,8 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
 
-<div align=center>
-  
-</div>
+<br/>
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckdwns1221&layout=compact)](https://github.com/ckdwns1221/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckdwns1221&show_icons=true&theme=tokyonight)    
