@@ -1,6 +1,7 @@
-### Hi there 👋
+![slice](https://capsule-render.vercel.app/api?type=slice&color=#b2ccff&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
 
 <h3 align=center font-size=20px>🙌Introduction</h3>
+<p align=center>성결대학교 컴퓨터공학과 19학번 고창준입니다!😁</p>
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
