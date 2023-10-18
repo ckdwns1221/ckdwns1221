@@ -42,7 +42,6 @@
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckdwns1221&layout=compact">
 </div>
-<br/>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=ckdwns1221&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,a49cec,d6a4a4">
 </div>
@@ -50,5 +49,5 @@
 
 <!-- 3D-Grass section -->
 <h3 align=center>🌱3D-Grass🌱</h3>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D-Grass](./profile-3d-contrib/profile-night-rainbow.svg)
 
