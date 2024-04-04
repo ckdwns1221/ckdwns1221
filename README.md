@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 <br />
 
@@ -40,7 +40,7 @@
 <!-- Study section -->
 <h3 align=center>📖Study📖</h3>
 <div align=center>
-  
+   <img src="https://img.shields.io/badge/redux-#764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </div>
 <br/>
 
