@@ -40,7 +40,7 @@
 <!-- Study section -->
 <h3 align=center>📖Study📖</h3>
 <div align=center>
-   <img src="https://img.shields.io/badge/redux-#764ABC?style=for-the-badge&logo=redux&logoColor=white">
+   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </div>
 <br/>
 
