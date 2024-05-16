@@ -46,10 +46,10 @@
 
 <!-- Widget section -->
 <h3 align=center>📊Widget📊</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckdwns1221&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a>
+</div>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=ckdwns1221&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,a49cec,d6a4a4">
-</a>
+</div>
 <br />
